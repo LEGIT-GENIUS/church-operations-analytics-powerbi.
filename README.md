@@ -2,25 +2,6 @@
 An end-to-end data analytics solution transforming church operations from manual tracking into an automated Power BI pipeline. Features interactive dashboards for membership demographics, attendance trends, and visitor retention analytics using cloud-connected data sources.
 
 
-The-Stone-Church-Analytics/
-│
-├── data/
-│   ├── raw/                 # (Optional) Sample/mock CSVs of your Google Sheets
-│   └── transformed/         # (Optional) Cleaned data samples
-│
-├── screenshots/
-│   ├── Church_Database_PowerBI.jpg
-│   ├── Attendance_Profile.jpg
-│   └── First_Timers_Dataset.jpg
-│
-├── scripts/
-│   ├── PowerQuery_M_Code.txt # Your data cleaning steps exported from Power BI
-│   └── DAX_Measures.dax     # A text file containing the formulas you wrote
-│
-├── .gitignore               # Prevents large or sensitive files from uploading
-├── README.md                # The main homepage of your project (Most Important!)
-└── The_Stone_Church_Dashboard.pbix  # Your actual Power BI project file
-
 # End-to-End Church Operations & Growth Analytics Dashboard
 Using Power BI & Google Cloud Databases to drive administrative efficiency and visitor retention.
 
@@ -63,15 +44,16 @@ By connecting operational data directly to interactive dashboards, church leader
 
 ### A. Congregation Profile
 Comprehensive breakdown of the church's core demographics, including employment profiles, marital status, and ministry department distribution.
-![Congregation Profile](screenshots/Church_Database_PowerBI.jpg)
+![Congregation Profile](![Uploading Church_Database_PowerBI.png…])
 
 ### B. Attendance Trends
 Tracks monthly attendance trajectories and isolates average turnouts for Sunday vs. Wednesday services using target gauge visuals.
-![Attendance Profile](screenshots/Attendance_Profile.jpg)
+![Attendance Profile](![Uploading Attendance_Profile.png…])
 
 ### C. First-Timers Profile & Retention
 Monitors incoming visitors by week/month, highlighting conversion intent ("Yes" to joining vs. "Visiting") to empower the evangelism team.
-![First Timers Profile](screenshots/First_Timers_Dataset.jpg)
+![First Timers Profile](<img width="1279" height="755" alt="First_Timers_Dataset" src="https://github.com/user-attachments/assets/52576263-e0bf-4316-8bde-7aec68ace1b0" />
+)
 
 ---
 
