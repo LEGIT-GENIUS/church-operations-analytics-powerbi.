@@ -44,16 +44,18 @@ By connecting operational data directly to interactive dashboards, church leader
 
 ### A. Congregation Profile
 Comprehensive breakdown of the church's core demographics, including employment profiles, marital status, and ministry department distribution.
-![Congregation Profile](![Uploading Church_Database_PowerBI.png…])
+![Congregation Profile]<img width="1274" height="749" alt="Church_Database_PowerBI" src="https://github.com/user-attachments/assets/5d4ec324-33bf-42e3-a163-aec127445109" />
+
 
 ### B. Attendance Trends
 Tracks monthly attendance trajectories and isolates average turnouts for Sunday vs. Wednesday services using target gauge visuals.
-![Attendance Profile](![Uploading Attendance_Profile.png…])
+![Attendance Profile]<img width="1277" height="746" alt="Attendance_Profile" src="https://github.com/user-attachments/assets/9ca1efd6-ad40-4475-b48f-da80f57aaf9c" />
+
 
 ### C. First-Timers Profile & Retention
 Monitors incoming visitors by week/month, highlighting conversion intent ("Yes" to joining vs. "Visiting") to empower the evangelism team.
-![First Timers Profile](<img width="1279" height="755" alt="First_Timers_Dataset" src="https://github.com/user-attachments/assets/52576263-e0bf-4316-8bde-7aec68ace1b0" />
-)
+![First Timers Profile]<img width="1279" height="755" alt="First_Timers_Dataset" src="https://github.com/user-attachments/assets/b9ec7977-dd5a-4b66-a062-eac0a5963f19" />
+
 
 ---
 
